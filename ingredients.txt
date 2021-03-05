@@ -2,3 +2,4 @@ applesauce
 powder
 butter
 salt
+olive oil
